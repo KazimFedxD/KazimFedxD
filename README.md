@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kazimfedxd" alt="kazimfedxd" /></a> </p>
 
-- 🔭 I’m currently working on **FedxD Naukar Discord Bot**
+- 🔭 I’m currently working on **FeXoBot Discord Bot & My Website**
 
 - 🌱 I’m currently learning **A lot Of New Coding Things**
 
